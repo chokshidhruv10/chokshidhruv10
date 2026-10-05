@@ -241,20 +241,25 @@ Full Stack MERN Developer 🚀
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/chokshidhruv10" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="35" width="45"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="35" width="45"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/dhruv-chokshi-b226b5332/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/chokshidhruv10/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </p>
-
----
-
 <h3 align="center">⚡ Code. Solve. Build. Learn. Repeat. ⚡</h3>
 
 <h4 align="center">Thanks for visiting my profile! 🚀</h4>
